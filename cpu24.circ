@@ -644,217 +644,308 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
     <a name="clabelcolor" val="#000000"/>
-    <wire from="(10,10)" to="(10,170)"/>
-    <wire from="(50,130)" to="(70,130)"/>
-    <wire from="(50,90)" to="(70,90)"/>
-    <wire from="(50,110)" to="(70,110)"/>
-    <wire from="(130,130)" to="(140,130)"/>
-    <wire from="(130,90)" to="(140,90)"/>
-    <wire from="(130,110)" to="(140,110)"/>
-    <wire from="(130,50)" to="(140,50)"/>
-    <wire from="(280,100)" to="(330,100)"/>
-    <wire from="(250,140)" to="(300,140)"/>
-    <wire from="(320,110)" to="(320,120)"/>
     <wire from="(320,80)" to="(320,90)"/>
-    <wire from="(370,110)" to="(370,120)"/>
-    <wire from="(360,80)" to="(360,90)"/>
-    <wire from="(280,80)" to="(280,100)"/>
-    <wire from="(330,100)" to="(330,120)"/>
-    <wire from="(360,100)" to="(360,120)"/>
-    <wire from="(200,120)" to="(310,120)"/>
     <wire from="(400,80)" to="(400,100)"/>
-    <wire from="(440,80)" to="(440,110)"/>
-    <wire from="(380,120)" to="(480,120)"/>
-    <wire from="(350,90)" to="(350,120)"/>
-    <wire from="(340,90)" to="(340,120)"/>
     <wire from="(240,80)" to="(240,110)"/>
-    <wire from="(360,100)" to="(400,100)"/>
-    <wire from="(320,90)" to="(340,90)"/>
-    <wire from="(200,80)" to="(200,120)"/>
-    <wire from="(480,80)" to="(480,120)"/>
-    <wire from="(350,90)" to="(360,90)"/>
-    <wire from="(240,110)" to="(320,110)"/>
-    <wire from="(370,110)" to="(440,110)"/>
-    <wire from="(450,140)" to="(470,140)"/>
+    <wire from="(1160,1120)" to="(1170,1120)"/>
     <wire from="(10,10)" to="(540,10)"/>
     <wire from="(10,170)" to="(540,170)"/>
-    <wire from="(540,10)" to="(1380,10)"/>
-    <wire from="(1380,10)" to="(1380,170)"/>
-    <wire from="(540,170)" to="(1380,170)"/>
-    <wire from="(1250,70)" to="(1250,90)"/>
-    <wire from="(1120,70)" to="(1130,70)"/>
+    <wire from="(480,80)" to="(480,120)"/>
     <wire from="(1250,70)" to="(1280,70)"/>
+    <wire from="(130,90)" to="(140,90)"/>
     <wire from="(1040,40)" to="(1050,40)"/>
-    <wire from="(830,40)" to="(840,40)"/>
-    <wire from="(900,70)" to="(910,70)"/>
-    <wire from="(700,70)" to="(710,70)"/>
-    <wire from="(580,70)" to="(590,70)"/>
-    <wire from="(1040,40)" to="(1040,80)"/>
-    <wire from="(830,40)" to="(830,80)"/>
-    <wire from="(740,130)" to="(750,130)"/>
-    <wire from="(740,150)" to="(750,150)"/>
-    <wire from="(600,130)" to="(610,130)"/>
-    <wire from="(600,150)" to="(610,150)"/>
-    <wire from="(640,140)" to="(650,140)"/>
-    <wire from="(780,140)" to="(790,140)"/>
-    <wire from="(920,140)" to="(930,140)"/>
-    <wire from="(880,130)" to="(890,130)"/>
-    <wire from="(880,150)" to="(890,150)"/>
-    <wire from="(540,10)" to="(540,170)"/>
-    <wire from="(1590,980)" to="(1590,1060)"/>
-    <wire from="(1440,900)" to="(2270,900)"/>
-    <wire from="(2120,1130)" to="(2260,1130)"/>
-    <wire from="(1740,1170)" to="(1810,1170)"/>
-    <wire from="(1160,1120)" to="(1170,1120)"/>
-    <wire from="(1340,1120)" to="(1560,1120)"/>
-    <wire from="(1900,1130)" to="(1920,1130)"/>
-    <wire from="(2340,1120)" to="(2340,1520)"/>
-    <wire from="(1110,1090)" to="(1140,1090)"/>
-    <wire from="(1380,850)" to="(1400,850)"/>
-    <wire from="(2220,1110)" to="(2260,1110)"/>
     <wire from="(1140,1090)" to="(1160,1090)"/>
-    <wire from="(1870,1130)" to="(1900,1130)"/>
-    <wire from="(1420,1030)" to="(1420,1050)"/>
     <wire from="(1190,1190)" to="(1490,1190)"/>
-    <wire from="(1160,1090)" to="(1160,1120)"/>
-    <wire from="(1520,1180)" to="(1560,1180)"/>
-    <wire from="(1830,940)" to="(1830,1080)"/>
-    <wire from="(1440,920)" to="(1500,920)"/>
-    <wire from="(1440,1000)" to="(1500,1000)"/>
-    <wire from="(1440,880)" to="(1500,880)"/>
-    <wire from="(1160,1120)" to="(1160,1190)"/>
-    <wire from="(1900,1040)" to="(2220,1040)"/>
-    <wire from="(1160,1010)" to="(1170,1010)"/>
-    <wire from="(1160,1250)" to="(1170,1250)"/>
-    <wire from="(1160,1010)" to="(1160,1070)"/>
-    <wire from="(1540,1520)" to="(2340,1520)"/>
-    <wire from="(1190,990)" to="(1400,990)"/>
-    <wire from="(1940,1130)" to="(1980,1130)"/>
-    <wire from="(1760,1260)" to="(1810,1260)"/>
-    <wire from="(1500,1020)" to="(1500,1160)"/>
-    <wire from="(1690,1180)" to="(1690,1250)"/>
-    <wire from="(1720,960)" to="(1720,1150)"/>
-    <wire from="(1340,1120)" to="(1340,1170)"/>
-    <wire from="(2270,900)" to="(2270,1100)"/>
-    <wire from="(1190,1250)" to="(1390,1250)"/>
-    <wire from="(1440,940)" to="(1830,940)"/>
-    <wire from="(980,1380)" to="(1010,1380)"/>
-    <wire from="(1690,1180)" to="(1710,1180)"/>
-    <wire from="(1700,1270)" to="(1720,1270)"/>
-    <wire from="(1370,890)" to="(1400,890)"/>
-    <wire from="(1690,1250)" to="(1720,1250)"/>
-    <wire from="(1380,870)" to="(1400,870)"/>
-    <wire from="(1440,980)" to="(1590,980)"/>
-    <wire from="(1160,990)" to="(1160,1010)"/>
-    <wire from="(1160,1070)" to="(1160,1090)"/>
-    <wire from="(1900,1040)" to="(1900,1130)"/>
-    <wire from="(1870,1300)" to="(1920,1300)"/>
-    <wire from="(1440,1020)" to="(1500,1020)"/>
-    <wire from="(910,1300)" to="(1010,1300)"/>
-    <wire from="(1140,950)" to="(1140,1090)"/>
-    <wire from="(910,1090)" to="(930,1090)"/>
-    <wire from="(950,1090)" to="(970,1090)"/>
-    <wire from="(2220,1040)" to="(2220,1110)"/>
-    <wire from="(1160,1190)" to="(1170,1190)"/>
-    <wire from="(1160,990)" to="(1170,990)"/>
-    <wire from="(1160,1070)" to="(1170,1070)"/>
-    <wire from="(1430,1250)" to="(1690,1250)"/>
-    <wire from="(2290,1120)" to="(2340,1120)"/>
-    <wire from="(1160,1190)" to="(1160,1250)"/>
-    <wire from="(900,1090)" to="(910,1090)"/>
-    <wire from="(1540,1200)" to="(1560,1200)"/>
-    <wire from="(1190,1010)" to="(1400,1010)"/>
-    <wire from="(1440,960)" to="(1720,960)"/>
-    <wire from="(1340,1170)" to="(1490,1170)"/>
-    <wire from="(1190,1340)" to="(1190,1430)"/>
-    <wire from="(1190,1340)" to="(1810,1340)"/>
-    <wire from="(1070,1340)" to="(1190,1340)"/>
-    <wire from="(1920,1300)" to="(1920,1450)"/>
-    <wire from="(750,1430)" to="(1190,1430)"/>
-    <wire from="(720,1100)" to="(720,1450)"/>
-    <wire from="(750,1080)" to="(780,1080)"/>
-    <wire from="(720,1450)" to="(1920,1450)"/>
-    <wire from="(720,1100)" to="(780,1100)"/>
-    <wire from="(1440,280)" to="(1440,300)"/>
-    <wire from="(1130,310)" to="(1130,330)"/>
-    <wire from="(1290,310)" to="(1290,330)"/>
-    <wire from="(1150,270)" to="(1320,270)"/>
-    <wire from="(1480,310)" to="(1480,340)"/>
+    <wire from="(250,140)" to="(300,140)"/>
     <wire from="(1090,240)" to="(1090,370)"/>
-    <wire from="(1530,240)" to="(1530,370)"/>
-    <wire from="(1090,240)" to="(1530,240)"/>
-    <wire from="(1090,370)" to="(1530,370)"/>
-    <wire from="(1180,310)" to="(1180,320)"/>
-    <wire from="(1290,290)" to="(1290,300)"/>
-    <wire from="(1180,310)" to="(1230,310)"/>
+    <wire from="(360,100)" to="(400,100)"/>
     <wire from="(1330,340)" to="(1330,350)"/>
-    <wire from="(1130,310)" to="(1180,310)"/>
-    <wire from="(1470,340)" to="(1480,340)"/>
-    <wire from="(1480,310)" to="(1490,310)"/>
     <wire from="(1350,320)" to="(1360,320)"/>
     <wire from="(1420,310)" to="(1430,310)"/>
-    <wire from="(1250,350)" to="(1330,350)"/>
-    <wire from="(1360,280)" to="(1440,280)"/>
-    <wire from="(1290,290)" to="(1320,290)"/>
-    <wire from="(1290,330)" to="(1320,330)"/>
+    <wire from="(1160,1010)" to="(1170,1010)"/>
+    <wire from="(1160,1250)" to="(1170,1250)"/>
+    <wire from="(540,10)" to="(540,170)"/>
+    <wire from="(50,130)" to="(70,130)"/>
     <wire from="(1330,350)" to="(1420,350)"/>
-    <wire from="(1450,310)" to="(1480,310)"/>
-    <wire from="(1420,310)" to="(1420,350)"/>
-    <wire from="(1210,290)" to="(1230,290)"/>
-    <wire from="(1270,300)" to="(1290,300)"/>
+    <wire from="(830,40)" to="(840,40)"/>
+    <wire from="(700,70)" to="(710,70)"/>
+    <wire from="(1190,990)" to="(1400,990)"/>
+    <wire from="(600,130)" to="(610,130)"/>
     <wire from="(1270,310)" to="(1290,310)"/>
-    <wire from="(1850,870)" to="(1880,870)"/>
-    <wire from="(1440,850)" to="(1880,850)"/>
-    <wire from="(1670,1160)" to="(1670,1200)"/>
-    <wire from="(1670,1200)" to="(1930,1200)"/>
-    <wire from="(1670,1160)" to="(1710,1160)"/>
-    <wire from="(1660,1160)" to="(1670,1160)"/>
-    <wire from="(1930,1150)" to="(1980,1150)"/>
-    <wire from="(1930,1150)" to="(1930,1200)"/>
-    <wire from="(2010,1170)" to="(2010,1180)"/>
-    <wire from="(790,620)" to="(790,1070)"/>
-    <wire from="(880,1110)" to="(880,1130)"/>
-    <wire from="(2050,1170)" to="(2050,1180)"/>
-    <wire from="(2050,1170)" to="(2060,1170)"/>
-    <wire from="(910,1220)" to="(930,1220)"/>
-    <wire from="(910,1090)" to="(910,1220)"/>
-    <wire from="(910,1220)" to="(910,1300)"/>
-    <wire from="(750,1330)" to="(780,1330)"/>
-    <wire from="(750,1080)" to="(750,1330)"/>
-    <wire from="(750,1330)" to="(750,1430)"/>
-    <wire from="(1030,1270)" to="(1030,1290)"/>
-    <wire from="(1830,1240)" to="(1830,1250)"/>
-    <wire from="(830,1090)" to="(830,1170)"/>
-    <wire from="(810,1090)" to="(830,1090)"/>
-    <wire from="(830,1090)" to="(870,1090)"/>
-    <wire from="(1280,1060)" to="(1280,1070)"/>
-    <wire from="(1190,1070)" to="(1280,1070)"/>
-    <wire from="(1280,1070)" to="(1560,1070)"/>
-    <wire from="(1190,1120)" to="(1280,1120)"/>
-    <wire from="(1280,1120)" to="(1340,1120)"/>
-    <wire from="(1540,1200)" to="(1540,1220)"/>
-    <wire from="(1540,1220)" to="(1540,1520)"/>
-    <wire from="(1510,1220)" to="(1540,1220)"/>
-    <wire from="(1280,1100)" to="(1280,1120)"/>
-    <wire from="(1660,1090)" to="(1810,1090)"/>
-    <wire from="(1630,1040)" to="(1630,1060)"/>
-    <wire from="(1850,870)" to="(1850,1090)"/>
-    <wire from="(1850,790)" to="(1850,870)"/>
-    <wire from="(1850,790)" to="(1860,790)"/>
-    <wire from="(1500,770)" to="(1500,880)"/>
-    <wire from="(1500,770)" to="(1880,770)"/>
-    <wire from="(1970,620)" to="(1970,700)"/>
-    <wire from="(790,620)" to="(1970,620)"/>
-    <wire from="(1910,780)" to="(1960,780)"/>
-    <wire from="(1960,730)" to="(1960,780)"/>
-    <wire from="(1980,730)" to="(1980,860)"/>
-    <wire from="(1910,860)" to="(1980,860)"/>
+    <wire from="(1250,70)" to="(1250,90)"/>
+    <wire from="(1150,270)" to="(1320,270)"/>
+    <wire from="(1500,1020)" to="(1500,1160)"/>
+    <wire from="(10,10)" to="(10,170)"/>
+    <wire from="(1360,280)" to="(1440,280)"/>
+    <wire from="(1340,1120)" to="(1340,1170)"/>
+    <wire from="(1290,290)" to="(1320,290)"/>
+    <wire from="(350,90)" to="(360,90)"/>
+    <wire from="(130,110)" to="(140,110)"/>
+    <wire from="(640,140)" to="(650,140)"/>
+    <wire from="(1160,990)" to="(1160,1010)"/>
+    <wire from="(1160,1070)" to="(1160,1090)"/>
+    <wire from="(1440,1020)" to="(1500,1020)"/>
+    <wire from="(340,90)" to="(340,120)"/>
+    <wire from="(1480,310)" to="(1490,310)"/>
+    <wire from="(910,1090)" to="(930,1090)"/>
+    <wire from="(1160,1190)" to="(1170,1190)"/>
+    <wire from="(1190,1010)" to="(1400,1010)"/>
+    <wire from="(740,130)" to="(750,130)"/>
+    <wire from="(1340,1170)" to="(1490,1170)"/>
+    <wire from="(600,150)" to="(610,150)"/>
+    <wire from="(1440,280)" to="(1440,300)"/>
+    <wire from="(360,80)" to="(360,90)"/>
+    <wire from="(280,80)" to="(280,100)"/>
+    <wire from="(440,80)" to="(440,110)"/>
+    <wire from="(1090,240)" to="(1530,240)"/>
+    <wire from="(1290,290)" to="(1290,300)"/>
+    <wire from="(1250,350)" to="(1330,350)"/>
+    <wire from="(1040,40)" to="(1040,80)"/>
+    <wire from="(200,80)" to="(200,120)"/>
+    <wire from="(1110,1090)" to="(1140,1090)"/>
+    <wire from="(130,130)" to="(140,130)"/>
+    <wire from="(1450,310)" to="(1480,310)"/>
+    <wire from="(130,50)" to="(140,50)"/>
+    <wire from="(780,140)" to="(790,140)"/>
+    <wire from="(1270,300)" to="(1290,300)"/>
+    <wire from="(1160,1090)" to="(1160,1120)"/>
+    <wire from="(330,100)" to="(330,120)"/>
+    <wire from="(200,120)" to="(310,120)"/>
+    <wire from="(1440,880)" to="(1500,880)"/>
+    <wire from="(1160,1120)" to="(1160,1190)"/>
+    <wire from="(1530,240)" to="(1530,370)"/>
+    <wire from="(1090,370)" to="(1530,370)"/>
+    <wire from="(1180,310)" to="(1180,320)"/>
+    <wire from="(1180,310)" to="(1230,310)"/>
+    <wire from="(830,40)" to="(830,80)"/>
+    <wire from="(50,90)" to="(70,90)"/>
+    <wire from="(1160,1010)" to="(1160,1070)"/>
+    <wire from="(540,10)" to="(1380,10)"/>
+    <wire from="(540,170)" to="(1380,170)"/>
+    <wire from="(240,110)" to="(320,110)"/>
+    <wire from="(1380,10)" to="(1380,170)"/>
+    <wire from="(900,70)" to="(910,70)"/>
+    <wire from="(880,130)" to="(890,130)"/>
+    <wire from="(740,150)" to="(750,150)"/>
+    <wire from="(1420,310)" to="(1420,350)"/>
+    <wire from="(580,70)" to="(590,70)"/>
+    <wire from="(1210,290)" to="(1230,290)"/>
+    <wire from="(1130,310)" to="(1130,330)"/>
+    <wire from="(1290,310)" to="(1290,330)"/>
+    <wire from="(280,100)" to="(330,100)"/>
+    <wire from="(1500,790)" to="(1500,880)"/>
+    <wire from="(370,110)" to="(370,120)"/>
+    <wire from="(360,100)" to="(360,120)"/>
+    <wire from="(380,120)" to="(480,120)"/>
+    <wire from="(350,90)" to="(350,120)"/>
+    <wire from="(1130,310)" to="(1180,310)"/>
+    <wire from="(320,90)" to="(340,90)"/>
+    <wire from="(450,140)" to="(470,140)"/>
+    <wire from="(1290,330)" to="(1320,330)"/>
+    <wire from="(1370,890)" to="(1400,890)"/>
+    <wire from="(920,140)" to="(930,140)"/>
+    <wire from="(1480,310)" to="(1480,340)"/>
+    <wire from="(320,110)" to="(320,120)"/>
+    <wire from="(1470,340)" to="(1480,340)"/>
+    <wire from="(950,1090)" to="(970,1090)"/>
+    <wire from="(1160,990)" to="(1170,990)"/>
+    <wire from="(1160,1070)" to="(1170,1070)"/>
+    <wire from="(1120,70)" to="(1130,70)"/>
+    <wire from="(50,110)" to="(70,110)"/>
+    <wire from="(1160,1190)" to="(1160,1250)"/>
+    <wire from="(880,150)" to="(890,150)"/>
+    <wire from="(370,110)" to="(440,110)"/>
+    <wire from="(1130,1120)" to="(1140,1120)"/>
+    <wire from="(1140,1090)" to="(1140,1120)"/>
+    <wire from="(1130,1120)" to="(1130,1160)"/>
+    <wire from="(1830,1160)" to="(1870,1160)"/>
+    <wire from="(1750,980)" to="(1750,1060)"/>
+    <wire from="(1990,1230)" to="(1990,1250)"/>
+    <wire from="(2140,750)" to="(2140,860)"/>
+    <wire from="(2090,1150)" to="(2090,1200)"/>
+    <wire from="(2210,1170)" to="(2220,1170)"/>
+    <wire from="(2010,810)" to="(2010,870)"/>
+    <wire from="(1880,960)" to="(1880,1150)"/>
+    <wire from="(2070,860)" to="(2140,860)"/>
+    <wire from="(2210,1170)" to="(2210,1180)"/>
+    <wire from="(2010,810)" to="(2020,810)"/>
+    <wire from="(1820,1160)" to="(1830,1160)"/>
+    <wire from="(2170,1170)" to="(2170,1180)"/>
+    <wire from="(2090,1150)" to="(2140,1150)"/>
+    <wire from="(1850,1180)" to="(1870,1180)"/>
+    <wire from="(2060,1130)" to="(2080,1130)"/>
+    <wire from="(2100,1130)" to="(2140,1130)"/>
+    <wire from="(2010,870)" to="(2040,870)"/>
+    <wire from="(2030,1130)" to="(2060,1130)"/>
+    <wire from="(2130,690)" to="(2130,720)"/>
+    <wire from="(1990,1180)" to="(1990,1210)"/>
+    <wire from="(2010,870)" to="(2010,1090)"/>
+    <wire from="(2060,1040)" to="(2060,1130)"/>
+    <wire from="(2080,800)" to="(2120,800)"/>
+    <wire from="(1790,1040)" to="(1790,1060)"/>
+    <wire from="(1990,940)" to="(1990,1080)"/>
+    <wire from="(2120,750)" to="(2120,800)"/>
+    <wire from="(2040,810)" to="(2050,810)"/>
+    <wire from="(1830,1160)" to="(1830,1200)"/>
+    <wire from="(1700,1200)" to="(1720,1200)"/>
+    <wire from="(1500,790)" to="(2050,790)"/>
+    <wire from="(1440,980)" to="(1750,980)"/>
+    <wire from="(1440,960)" to="(1880,960)"/>
+    <wire from="(1440,850)" to="(2040,850)"/>
+    <wire from="(1520,1180)" to="(1590,1180)"/>
+    <wire from="(1600,1000)" to="(1600,1170)"/>
+    <wire from="(1440,1000)" to="(1600,1000)"/>
+    <wire from="(1630,1180)" to="(1630,1190)"/>
+    <wire from="(1620,1190)" to="(1630,1190)"/>
+    <wire from="(1630,1180)" to="(1720,1180)"/>
+    <wire from="(1570,1200)" to="(1590,1200)"/>
+    <wire from="(2280,1130)" to="(2360,1130)"/>
+    <wire from="(2060,1040)" to="(2320,1040)"/>
+    <wire from="(2320,1040)" to="(2320,1110)"/>
+    <wire from="(2320,1110)" to="(2360,1110)"/>
+    <wire from="(2370,900)" to="(2370,1100)"/>
+    <wire from="(1440,900)" to="(2370,900)"/>
+    <wire from="(2500,1130)" to="(2500,1520)"/>
+    <wire from="(2390,1120)" to="(2430,1120)"/>
+    <wire from="(2460,1130)" to="(2500,1130)"/>
+    <wire from="(2440,1000)" to="(2440,1110)"/>
+    <wire from="(1440,940)" to="(1990,940)"/>
+    <wire from="(2400,1140)" to="(2430,1140)"/>
+    <wire from="(2400,1140)" to="(2400,1180)"/>
+    <wire from="(1420,1030)" to="(1420,1040)"/>
+    <wire from="(1340,1120)" to="(1570,1120)"/>
+    <wire from="(1600,1000)" to="(2440,1000)"/>
+    <wire from="(1570,1060)" to="(1570,1070)"/>
+    <wire from="(1570,1110)" to="(1570,1120)"/>
+    <wire from="(1680,1040)" to="(1680,1050)"/>
+    <wire from="(1700,1070)" to="(1720,1070)"/>
+    <wire from="(1700,1120)" to="(1720,1120)"/>
+    <wire from="(1680,1050)" to="(1680,1100)"/>
+    <wire from="(1570,1060)" to="(1670,1060)"/>
+    <wire from="(1570,1110)" to="(1670,1110)"/>
+    <wire from="(1650,1080)" to="(1670,1080)"/>
+    <wire from="(1650,1130)" to="(1670,1130)"/>
+    <wire from="(1820,1090)" to="(1840,1090)"/>
+    <wire from="(1840,1050)" to="(1840,1090)"/>
+    <wire from="(470,1090)" to="(530,1090)"/>
+    <wire from="(650,1100)" to="(650,1170)"/>
+    <wire from="(630,1160)" to="(630,1190)"/>
+    <wire from="(560,1080)" to="(660,1080)"/>
+    <wire from="(670,850)" to="(670,1070)"/>
+    <wire from="(620,1150)" to="(620,1170)"/>
+    <wire from="(500,1070)" to="(500,1430)"/>
+    <wire from="(560,1140)" to="(580,1140)"/>
+    <wire from="(500,1070)" to="(530,1070)"/>
+    <wire from="(600,1140)" to="(630,1140)"/>
+    <wire from="(590,1170)" to="(620,1170)"/>
+    <wire from="(470,1090)" to="(470,1450)"/>
+    <wire from="(540,690)" to="(540,1060)"/>
+    <wire from="(650,1100)" to="(660,1100)"/>
+    <wire from="(620,1190)" to="(630,1190)"/>
+    <wire from="(560,1170)" to="(570,1170)"/>
+    <wire from="(620,1150)" to="(630,1150)"/>
+    <wire from="(540,690)" to="(2130,690)"/>
+    <wire from="(500,1430)" to="(1190,1430)"/>
+    <wire from="(670,850)" to="(1400,850)"/>
+    <wire from="(710,1080)" to="(710,1090)"/>
+    <wire from="(710,1080)" to="(770,1080)"/>
+    <wire from="(690,1090)" to="(710,1090)"/>
+    <wire from="(750,1100)" to="(770,1100)"/>
+    <wire from="(780,870)" to="(780,1070)"/>
+    <wire from="(780,870)" to="(1400,870)"/>
+    <wire from="(750,1100)" to="(750,1150)"/>
+    <wire from="(800,1090)" to="(850,1090)"/>
+    <wire from="(880,1090)" to="(910,1090)"/>
+    <wire from="(860,1110)" to="(860,1150)"/>
+    <wire from="(910,1340)" to="(1030,1340)"/>
+    <wire from="(1000,1360)" to="(1030,1360)"/>
+    <wire from="(910,1090)" to="(910,1340)"/>
+    <wire from="(1190,1350)" to="(1190,1430)"/>
+    <wire from="(1070,1350)" to="(1190,1350)"/>
+    <wire from="(1190,1320)" to="(1190,1350)"/>
+    <wire from="(1900,1050)" to="(1900,1090)"/>
+    <wire from="(1900,1090)" to="(1970,1090)"/>
+    <wire from="(1840,1090)" to="(1900,1090)"/>
+    <wire from="(1360,1290)" to="(1390,1290)"/>
+    <wire from="(1360,1250)" to="(1360,1290)"/>
+    <wire from="(1360,1250)" to="(1390,1250)"/>
+    <wire from="(1470,1250)" to="(1470,1270)"/>
+    <wire from="(1430,1250)" to="(1470,1250)"/>
+    <wire from="(1470,1270)" to="(1500,1270)"/>
+    <wire from="(1510,1210)" to="(1510,1260)"/>
+    <wire from="(1440,1210)" to="(1510,1210)"/>
+    <wire from="(1530,1280)" to="(1850,1280)"/>
+    <wire from="(1850,1180)" to="(1850,1280)"/>
+    <wire from="(1470,1290)" to="(1470,1310)"/>
+    <wire from="(1470,1290)" to="(1500,1290)"/>
+    <wire from="(1430,1290)" to="(1470,1290)"/>
+    <wire from="(1860,1330)" to="(1880,1330)"/>
+    <wire from="(1190,1350)" to="(1940,1350)"/>
+    <wire from="(1470,1310)" to="(1880,1310)"/>
+    <wire from="(1920,1320)" to="(1970,1320)"/>
+    <wire from="(1940,1340)" to="(1940,1350)"/>
+    <wire from="(2010,1330)" to="(2080,1330)"/>
+    <wire from="(2080,1330)" to="(2080,1450)"/>
+    <wire from="(1940,1340)" to="(1970,1340)"/>
+    <wire from="(470,1450)" to="(2080,1450)"/>
+    <wire from="(810,1100)" to="(850,1100)"/>
+    <wire from="(810,1100)" to="(810,1140)"/>
+    <wire from="(820,1170)" to="(820,1200)"/>
+    <wire from="(800,1180)" to="(800,1210)"/>
+    <wire from="(1110,1530)" to="(1220,1530)"/>
+    <wire from="(1130,1620)" to="(1240,1620)"/>
+    <wire from="(1220,1530)" to="(1250,1530)"/>
+    <wire from="(1220,1600)" to="(1250,1600)"/>
+    <wire from="(1280,1610)" to="(1370,1610)"/>
+    <wire from="(1280,1540)" to="(1370,1540)"/>
+    <wire from="(1010,1610)" to="(1070,1610)"/>
+    <wire from="(1220,1530)" to="(1220,1600)"/>
+    <wire from="(1130,1550)" to="(1130,1620)"/>
+    <wire from="(1130,1550)" to="(1250,1550)"/>
+    <wire from="(1110,1620)" to="(1130,1620)"/>
+    <wire from="(990,1630)" to="(1070,1630)"/>
+    <wire from="(1550,1550)" to="(1550,1570)"/>
+    <wire from="(1940,1200)" to="(1940,1250)"/>
+    <wire from="(1900,1170)" to="(1970,1170)"/>
+    <wire from="(1940,1200)" to="(2090,1200)"/>
+    <wire from="(1830,1200)" to="(1940,1200)"/>
+    <wire from="(1500,1530)" to="(1540,1530)"/>
+    <wire from="(1570,1530)" to="(1620,1530)"/>
+    <wire from="(1500,1560)" to="(1510,1560)"/>
+    <wire from="(1510,1540)" to="(1510,1560)"/>
+    <wire from="(1510,1540)" to="(1540,1540)"/>
+    <wire from="(1100,1010)" to="(1140,1010)"/>
+    <wire from="(1140,1010)" to="(1140,1090)"/>
+    <wire from="(1140,960)" to="(1140,1010)"/>
+    <wire from="(910,1000)" to="(910,1090)"/>
+    <wire from="(1750,980)" to="(1770,980)"/>
+    <wire from="(1440,920)" to="(1600,920)"/>
+    <wire from="(1680,1240)" to="(1700,1240)"/>
+    <wire from="(1700,1200)" to="(1700,1240)"/>
+    <wire from="(1700,1240)" to="(1700,1520)"/>
+    <wire from="(1700,1520)" to="(2500,1520)"/>
+    <wire from="(1190,1250)" to="(1360,1250)"/>
+    <wire from="(1190,1120)" to="(1340,1120)"/>
+    <wire from="(1190,1070)" to="(1570,1070)"/>
+    <wire from="(1190,1690)" to="(1220,1690)"/>
+    <wire from="(1170,1710)" to="(1170,1730)"/>
+    <wire from="(1170,1650)" to="(1170,1670)"/>
+    <wire from="(1130,1650)" to="(1170,1650)"/>
+    <wire from="(1130,1650)" to="(1130,1690)"/>
+    <wire from="(1070,1690)" to="(1130,1690)"/>
+    <wire from="(1030,1690)" to="(1050,1690)"/>
     <comp lib="6" loc="(1448,261)" name="Text">
       <a name="text" val="可计数暂停的时钟源"/>
       <a name="font" val="Dialog bold 12"/>
       <a name="color" val="#000000"/>
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
+    </comp>
+    <comp lib="0" loc="(1900,1050)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="32"/>
+      <a name="label" val="R[v0]"/>
+      <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="5" loc="(50,90)" name="Button">
       <a name="facing" val="east"/>
@@ -876,6 +967,12 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </comp>
+    <comp lib="0" loc="(1680,1240)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="RDin"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
     <comp lib="5" loc="(280,80)" name="Hex Digit Display">
       <a name="color" val="#f00000"/>
       <a name="offcolor" val="#dcdcdc"/>
@@ -888,12 +985,6 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </comp>
-    <comp lib="0" loc="(880,1130)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="1"/>
-      <a name="label" val="CLK"/>
-      <a name="labelfont" val="Dialog plain 12"/>
-    </comp>
     <comp lib="5" loc="(130,90)" name="LED">
       <a name="facing" val="east"/>
       <a name="color" val="#f00000"/>
@@ -903,6 +994,12 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="labelloc" val="north"/>
       <a name="labelfont" val="Dialog plain 12"/>
       <a name="labelcolor" val="#000000"/>
+    </comp>
+    <comp lib="0" loc="(1770,980)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="1"/>
+      <a name="label" val="RegWrite"/>
+      <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="5" loc="(130,110)" name="LED">
       <a name="facing" val="east"/>
@@ -920,6 +1017,56 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="color" val="#000000"/>
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
+    </comp>
+    <comp lib="0" loc="(1790,1040)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="1"/>
+      <a name="label" val="CLK"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(2080,1130)" name="Splitter">
+      <a name="facing" val="east"/>
+      <a name="fanout" val="1"/>
+      <a name="incoming" val="32"/>
+      <a name="appear" val="center"/>
+      <a name="bit0" val="none"/>
+      <a name="bit1" val="none"/>
+      <a name="bit2" val="0"/>
+      <a name="bit3" val="0"/>
+      <a name="bit4" val="0"/>
+      <a name="bit5" val="0"/>
+      <a name="bit6" val="0"/>
+      <a name="bit7" val="0"/>
+      <a name="bit8" val="0"/>
+      <a name="bit9" val="0"/>
+      <a name="bit10" val="0"/>
+      <a name="bit11" val="0"/>
+      <a name="bit12" val="none"/>
+      <a name="bit13" val="none"/>
+      <a name="bit14" val="none"/>
+      <a name="bit15" val="none"/>
+      <a name="bit16" val="none"/>
+      <a name="bit17" val="none"/>
+      <a name="bit18" val="none"/>
+      <a name="bit19" val="none"/>
+      <a name="bit20" val="none"/>
+      <a name="bit21" val="none"/>
+      <a name="bit22" val="none"/>
+      <a name="bit23" val="none"/>
+      <a name="bit24" val="none"/>
+      <a name="bit25" val="none"/>
+      <a name="bit26" val="none"/>
+      <a name="bit27" val="none"/>
+      <a name="bit28" val="none"/>
+      <a name="bit29" val="none"/>
+      <a name="bit30" val="none"/>
+      <a name="bit31" val="none"/>
+    </comp>
+    <comp lib="0" loc="(1680,1040)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="1"/>
+      <a name="label" val="syscall"/>
+      <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="0" loc="(1170,1010)" name="Splitter">
       <a name="facing" val="east"/>
@@ -983,9 +1130,25 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="label" val="IRC"/>
       <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
-    <comp lib="3" loc="(1760,1260)" name="Shifter">
+    <comp lib="2" loc="(800,1090)" name="Multiplexer">
+      <a name="facing" val="east"/>
+      <a name="selloc" val="tr"/>
+      <a name="select" val="1"/>
       <a name="width" val="32"/>
-      <a name="shift" val="ll"/>
+      <a name="disabled" val="Z"/>
+      <a name="enable" val="false"/>
+    </comp>
+    <comp lib="1" loc="(2130,720)" name="OR Gate">
+      <a name="facing" val="north"/>
+      <a name="width" val="1"/>
+      <a name="size" val="30"/>
+      <a name="inputs" val="2"/>
+      <a name="out" val="01"/>
+      <a name="label" val=""/>
+      <a name="labelfont" val="Dialog plain 12"/>
+      <a name="labelcolor" val="#000000"/>
+      <a name="negate0" val="false"/>
+      <a name="negate1" val="false"/>
     </comp>
     <comp lib="6" loc="(1471,915)" name="Text">
       <a name="text" val="MemWrite"/>
@@ -1000,11 +1163,25 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="label" val="MDin"/>
       <a name="labelfont" val="Dialog plain 12"/>
     </comp>
-    <comp lib="0" loc="(1630,1040)" name="Tunnel">
-      <a name="facing" val="south"/>
+    <comp lib="1" loc="(810,1140)" name="OR Gate">
+      <a name="facing" val="north"/>
       <a name="width" val="1"/>
-      <a name="label" val="CLK"/>
+      <a name="size" val="30"/>
+      <a name="inputs" val="2"/>
+      <a name="out" val="01"/>
+      <a name="label" val=""/>
       <a name="labelfont" val="Dialog plain 12"/>
+      <a name="labelcolor" val="#000000"/>
+      <a name="negate0" val="true"/>
+      <a name="negate1" val="false"/>
+    </comp>
+    <comp lib="4" loc="(1570,1530)" name="Register">
+      <a name="width" val="32"/>
+      <a name="trigger" val="rising"/>
+      <a name="label" val=""/>
+      <a name="labelfont" val="Dialog plain 12"/>
+      <a name="labelcolor" val="#000000"/>
+      <a name="Select" val="low"/>
     </comp>
     <comp lib="6" loc="(1043,1042)" name="Text">
       <a name="text" val="指令存储器"/>
@@ -1013,13 +1190,17 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </comp>
-    <comp lib="2" loc="(2290,1120)" name="Multiplexer">
-      <a name="facing" val="east"/>
-      <a name="selloc" val="tr"/>
-      <a name="select" val="1"/>
-      <a name="width" val="32"/>
-      <a name="disabled" val="Z"/>
-      <a name="enable" val="false"/>
+    <comp lib="0" loc="(860,1150)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="1"/>
+      <a name="label" val="CLK"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(1600,920)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="1"/>
+      <a name="label" val="MemWrite"/>
+      <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="6" loc="(1265,414)" name="Text">
       <a name="text" val="ctrl+k关闭时钟连续运行，将控制位置零，进入单步调试模式调试"/>
@@ -1043,6 +1224,14 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="label" val=""/>
       <a name="labelfont" val="Dialog plain 12"/>
       <a name="labelcolor" val="#000000"/>
+    </comp>
+    <comp lib="4" loc="(880,1090)" name="Register">
+      <a name="width" val="32"/>
+      <a name="trigger" val="rising"/>
+      <a name="label" val="PC"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+      <a name="labelcolor" val="#000000"/>
+      <a name="Select" val="low"/>
     </comp>
     <comp lib="0" loc="(250,140)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -1081,59 +1270,12 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="label" val="Go"/>
       <a name="labelfont" val="Dialog plain 12"/>
     </comp>
-    <comp lib="0" loc="(1920,1130)" name="Splitter">
-      <a name="facing" val="east"/>
-      <a name="fanout" val="1"/>
-      <a name="incoming" val="32"/>
-      <a name="appear" val="center"/>
-      <a name="bit0" val="none"/>
-      <a name="bit1" val="none"/>
-      <a name="bit2" val="0"/>
-      <a name="bit3" val="0"/>
-      <a name="bit4" val="0"/>
-      <a name="bit5" val="0"/>
-      <a name="bit6" val="0"/>
-      <a name="bit7" val="0"/>
-      <a name="bit8" val="0"/>
-      <a name="bit9" val="0"/>
-      <a name="bit10" val="0"/>
-      <a name="bit11" val="0"/>
-      <a name="bit12" val="none"/>
-      <a name="bit13" val="none"/>
-      <a name="bit14" val="none"/>
-      <a name="bit15" val="none"/>
-      <a name="bit16" val="none"/>
-      <a name="bit17" val="none"/>
-      <a name="bit18" val="none"/>
-      <a name="bit19" val="none"/>
-      <a name="bit20" val="none"/>
-      <a name="bit21" val="none"/>
-      <a name="bit22" val="none"/>
-      <a name="bit23" val="none"/>
-      <a name="bit24" val="none"/>
-      <a name="bit25" val="none"/>
-      <a name="bit26" val="none"/>
-      <a name="bit27" val="none"/>
-      <a name="bit28" val="none"/>
-      <a name="bit29" val="none"/>
-      <a name="bit30" val="none"/>
-      <a name="bit31" val="none"/>
-    </comp>
     <comp lib="6" loc="(451,193)" name="Text">
       <a name="text" val="数码管输出应该用寄存器锁存，否则显示数据只能一闪而过"/>
       <a name="font" val="Dialog plain 12"/>
       <a name="color" val="#000000"/>
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
-    </comp>
-    <comp lib="4" loc="(2120,1130)" name="RAM">
-      <a name="addrWidth" val="10"/>
-      <a name="dataWidth" val="32"/>
-      <a name="label" val=""/>
-      <a name="labelfont" val="Dialog plain 12"/>
-      <a name="labelcolor" val="#000000"/>
-      <a name="bus" val="separate"/>
-      <a name="Select" val="high"/>
     </comp>
     <comp lib="0" loc="(1470,340)" name="Pull Resistor">
       <a name="facing" val="east"/>
@@ -1153,6 +1295,30 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="color" val="#000000"/>
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
+    </comp>
+    <comp lib="0" loc="(750,1150)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+      <a name="label" val="R[rs]"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(1500,1530)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="MDin"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(910,1000)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="32"/>
+      <a name="label" val="PC"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(2170,1180)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="1"/>
+      <a name="label" val="MemWrite"/>
+      <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="0" loc="(1170,1250)" name="Splitter">
       <a name="facing" val="east"/>
@@ -1206,6 +1372,29 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </comp>
+    <comp lib="0" loc="(1190,1320)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="32"/>
+      <a name="label" val="PC+4"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(1840,1050)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="32"/>
+      <a name="label" val="R[rs]"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(990,1630)" name="Constant">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="value" val="0x22"/>
+    </comp>
+    <comp lib="0" loc="(1110,1530)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="1"/>
+      <a name="label" val="syscall"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
     <comp lib="0" loc="(1130,330)" name="Constant">
       <a name="facing" val="north"/>
       <a name="width" val="13"/>
@@ -1223,6 +1412,44 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="color" val="#000000"/>
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
+    </comp>
+    <comp lib="0" loc="(650,1170)" name="Splitter">
+      <a name="facing" val="west"/>
+      <a name="fanout" val="3"/>
+      <a name="incoming" val="32"/>
+      <a name="appear" val="right"/>
+      <a name="bit0" val="2"/>
+      <a name="bit1" val="2"/>
+      <a name="bit2" val="1"/>
+      <a name="bit3" val="1"/>
+      <a name="bit4" val="1"/>
+      <a name="bit5" val="1"/>
+      <a name="bit6" val="1"/>
+      <a name="bit7" val="1"/>
+      <a name="bit8" val="1"/>
+      <a name="bit9" val="1"/>
+      <a name="bit10" val="1"/>
+      <a name="bit11" val="1"/>
+      <a name="bit12" val="1"/>
+      <a name="bit13" val="1"/>
+      <a name="bit14" val="1"/>
+      <a name="bit15" val="1"/>
+      <a name="bit16" val="1"/>
+      <a name="bit17" val="1"/>
+      <a name="bit18" val="1"/>
+      <a name="bit19" val="1"/>
+      <a name="bit20" val="1"/>
+      <a name="bit21" val="1"/>
+      <a name="bit22" val="1"/>
+      <a name="bit23" val="1"/>
+      <a name="bit24" val="1"/>
+      <a name="bit25" val="1"/>
+      <a name="bit26" val="1"/>
+      <a name="bit27" val="1"/>
+      <a name="bit28" val="0"/>
+      <a name="bit29" val="0"/>
+      <a name="bit30" val="0"/>
+      <a name="bit31" val="0"/>
     </comp>
     <comp lib="1" loc="(780,140)" name="OR Gate">
       <a name="facing" val="east"/>
@@ -1242,6 +1469,12 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="label" val="IR2"/>
       <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
+    <comp lib="0" loc="(1550,1570)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="1"/>
+      <a name="label" val="CLK"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
     <comp lib="0" loc="(740,130)" name="Pin">
       <a name="facing" val="east"/>
       <a name="output" val="false"/>
@@ -1253,14 +1486,7 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="labelfont" val="Dialog plain 10"/>
       <a name="labelcolor" val="#000000"/>
     </comp>
-    <comp lib="0" loc="(930,1220)" name="Probe">
-      <a name="facing" val="west"/>
-      <a name="radix" val="10signed"/>
-      <a name="label" val=""/>
-      <a name="labelloc" val="north"/>
-      <a name="labelfont" val="Dialog plain 12"/>
-      <a name="labelcolor" val="#000000"/>
-    </comp>
+    <comp lib="8" loc="(1140,960)" name="Mips Probe"/>
     <comp lib="0" loc="(1250,350)" name="Clock">
       <a name="facing" val="east"/>
       <a name="highDuration" val="1"/>
@@ -1277,6 +1503,12 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </comp>
+    <comp lib="0" loc="(2400,1180)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+      <a name="label" val="PC+4"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
     <comp lib="6" loc="(1380,1007)" name="Text">
       <a name="text" val="Func"/>
       <a name="font" val="SansSerif bold 12"/>
@@ -1290,6 +1522,13 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="label" val="IRA"/>
       <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
+    <comp loc="(2030,1130)" name="◆MIPS ALU">
+      <a name="facing" val="east"/>
+      <a name="label" val=""/>
+      <a name="labelloc" val="north"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+      <a name="labelcolor" val="#000000"/>
+    </comp>
     <comp lib="0" loc="(710,70)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
@@ -1301,12 +1540,11 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="labelfont" val="Dialog plain 12"/>
       <a name="labelcolor" val="#000000"/>
     </comp>
-    <comp lib="6" loc="(142,193)" name="Text">
-      <a name="text" val="总复位信号应将除ROM以外所有存储组件全部清零"/>
-      <a name="font" val="Dialog plain 12"/>
-      <a name="color" val="#000000"/>
-      <a name="halign" val="center"/>
-      <a name="valign" val="base"/>
+    <comp lib="0" loc="(1440,1210)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="1"/>
+      <a name="label" val="SignedExt"/>
+      <a name="labelfont" val="SansSerif plain 10"/>
     </comp>
     <comp lib="1" loc="(640,140)" name="OR Gate">
       <a name="facing" val="east"/>
@@ -1320,10 +1558,12 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="negate0" val="false"/>
       <a name="negate1" val="false"/>
     </comp>
-    <comp lib="0" loc="(980,1380)" name="Constant">
-      <a name="facing" val="east"/>
-      <a name="width" val="32"/>
-      <a name="value" val="0x4"/>
+    <comp lib="6" loc="(142,193)" name="Text">
+      <a name="text" val="总复位信号应将除ROM以外所有存储组件全部清零"/>
+      <a name="font" val="Dialog plain 12"/>
+      <a name="color" val="#000000"/>
+      <a name="halign" val="center"/>
+      <a name="valign" val="base"/>
     </comp>
     <comp lib="0" loc="(930,140)" name="Tunnel">
       <a name="facing" val="west"/>
@@ -1350,12 +1590,6 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="color" val="#000000"/>
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
-    </comp>
-    <comp lib="0" loc="(140,130)" name="Tunnel">
-      <a name="facing" val="west"/>
-      <a name="width" val="1"/>
-      <a name="label" val="W3"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
     <comp lib="0" loc="(1170,1120)" name="Splitter">
       <a name="facing" val="east"/>
@@ -1433,6 +1667,18 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="bit30" val="none"/>
       <a name="bit31" val="none"/>
     </comp>
+    <comp lib="0" loc="(140,130)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="1"/>
+      <a name="label" val="W3"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="0" loc="(1940,1250)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+      <a name="label" val="MDin"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
     <comp lib="0" loc="(880,130)" name="Pin">
       <a name="facing" val="east"/>
       <a name="output" val="false"/>
@@ -1451,9 +1697,27 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </comp>
+    <comp lib="0" loc="(1100,1010)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="IR"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
     <comp lib="3" loc="(1270,300)" name="Comparator">
       <a name="width" val="13"/>
       <a name="mode" val="twosComplement"/>
+    </comp>
+    <comp lib="0" loc="(1420,1040)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="1"/>
+      <a name="label" val="syscall"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(560,1170)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="指令字"/>
+      <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="5" loc="(130,50)" name="Button">
       <a name="facing" val="east"/>
@@ -1462,6 +1726,12 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="labelloc" val="north"/>
       <a name="labelfont" val="Dialog plain 12"/>
       <a name="labelcolor" val="#ff0a08"/>
+    </comp>
+    <comp lib="0" loc="(1170,1730)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="1"/>
+      <a name="label" val="CLK"/>
+      <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="0" loc="(300,140)" name="Splitter">
       <a name="facing" val="north"/>
@@ -1501,53 +1771,75 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="bit30" val="7"/>
       <a name="bit31" val="7"/>
     </comp>
-    <comp lib="6" loc="(1446,1052)" name="Text">
-      <a name="text" val="Syscall"/>
-      <a name="font" val="Dialog plain 12"/>
-      <a name="color" val="#000000"/>
-      <a name="halign" val="center"/>
-      <a name="valign" val="base"/>
-    </comp>
-    <comp lib="0" loc="(1280,1060)" name="Probe">
-      <a name="facing" val="south"/>
-      <a name="radix" val="10signed"/>
-      <a name="label" val=""/>
-      <a name="labelloc" val="north"/>
-      <a name="labelfont" val="Dialog plain 12"/>
-      <a name="labelcolor" val="#000000"/>
-    </comp>
-    <comp lib="0" loc="(780,1330)" name="Probe">
-      <a name="facing" val="west"/>
-      <a name="radix" val="10signed"/>
-      <a name="label" val=""/>
-      <a name="labelloc" val="north"/>
-      <a name="labelfont" val="Dialog plain 12"/>
-      <a name="labelcolor" val="#000000"/>
-    </comp>
-    <comp loc="(1660,1090)" name="◆MIPS Regifile">
+    <comp lib="2" loc="(1530,1280)" name="Multiplexer">
       <a name="facing" val="east"/>
+      <a name="selloc" val="tr"/>
+      <a name="select" val="1"/>
+      <a name="width" val="32"/>
+      <a name="disabled" val="Z"/>
+      <a name="enable" val="false"/>
+    </comp>
+    <comp lib="4" loc="(1190,1690)" name="Counter">
+      <a name="width" val="16"/>
+      <a name="max" val="0xffff"/>
+      <a name="ongoal" val="wrap"/>
+      <a name="trigger" val="rising"/>
+      <a name="behavior" val="new"/>
       <a name="label" val=""/>
-      <a name="labelloc" val="north"/>
       <a name="labelfont" val="Dialog plain 12"/>
       <a name="labelcolor" val="#000000"/>
     </comp>
-    <comp lib="1" loc="(1910,860)" name="AND Gate">
+    <comp lib="0" loc="(570,1170)" name="Splitter">
       <a name="facing" val="east"/>
-      <a name="width" val="1"/>
-      <a name="size" val="30"/>
-      <a name="inputs" val="2"/>
-      <a name="out" val="01"/>
-      <a name="label" val=""/>
-      <a name="labelfont" val="Dialog plain 12"/>
-      <a name="labelcolor" val="#000000"/>
-      <a name="negate0" val="false"/>
-      <a name="negate1" val="false"/>
+      <a name="fanout" val="1"/>
+      <a name="incoming" val="32"/>
+      <a name="appear" val="center"/>
+      <a name="bit0" val="0"/>
+      <a name="bit1" val="0"/>
+      <a name="bit2" val="0"/>
+      <a name="bit3" val="0"/>
+      <a name="bit4" val="0"/>
+      <a name="bit5" val="0"/>
+      <a name="bit6" val="0"/>
+      <a name="bit7" val="0"/>
+      <a name="bit8" val="0"/>
+      <a name="bit9" val="0"/>
+      <a name="bit10" val="0"/>
+      <a name="bit11" val="0"/>
+      <a name="bit12" val="0"/>
+      <a name="bit13" val="0"/>
+      <a name="bit14" val="0"/>
+      <a name="bit15" val="0"/>
+      <a name="bit16" val="0"/>
+      <a name="bit17" val="0"/>
+      <a name="bit18" val="0"/>
+      <a name="bit19" val="0"/>
+      <a name="bit20" val="0"/>
+      <a name="bit21" val="0"/>
+      <a name="bit22" val="0"/>
+      <a name="bit23" val="0"/>
+      <a name="bit24" val="0"/>
+      <a name="bit25" val="0"/>
+      <a name="bit26" val="none"/>
+      <a name="bit27" val="none"/>
+      <a name="bit28" val="none"/>
+      <a name="bit29" val="none"/>
+      <a name="bit30" val="none"/>
+      <a name="bit31" val="none"/>
     </comp>
     <comp lib="0" loc="(880,150)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="1"/>
       <a name="label" val="IRC"/>
       <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="2" loc="(2390,1120)" name="Multiplexer">
+      <a name="facing" val="east"/>
+      <a name="selloc" val="tr"/>
+      <a name="select" val="1"/>
+      <a name="width" val="32"/>
+      <a name="disabled" val="Z"/>
+      <a name="enable" val="false"/>
     </comp>
     <comp lib="5" loc="(200,80)" name="Hex Digit Display">
       <a name="color" val="#f00000"/>
@@ -1561,17 +1853,29 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </comp>
-    <comp loc="(1870,1130)" name="◆MIPS ALU">
+    <comp lib="2" loc="(1900,1170)" name="Multiplexer">
       <a name="facing" val="east"/>
-      <a name="label" val=""/>
-      <a name="labelloc" val="north"/>
-      <a name="labelfont" val="Dialog plain 12"/>
-      <a name="labelcolor" val="#000000"/>
+      <a name="selloc" val="tr"/>
+      <a name="select" val="1"/>
+      <a name="width" val="32"/>
+      <a name="disabled" val="Z"/>
+      <a name="enable" val="false"/>
     </comp>
-    <comp lib="0" loc="(1830,1240)" name="Constant">
-      <a name="facing" val="south"/>
-      <a name="width" val="4"/>
-      <a name="value" val="0x5"/>
+    <comp lib="0" loc="(620,1190)" name="Constant">
+      <a name="facing" val="east"/>
+      <a name="width" val="2"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="0" loc="(1650,1080)" name="Constant">
+      <a name="facing" val="east"/>
+      <a name="width" val="5"/>
+      <a name="value" val="0x2"/>
+    </comp>
+    <comp lib="0" loc="(1030,1690)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="1"/>
+      <a name="label" val="halt"/>
+      <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="6" loc="(1466,955)" name="Text">
       <a name="text" val="AluSrcB"/>
@@ -1579,6 +1883,28 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="color" val="#000000"/>
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
+    </comp>
+    <comp lib="0" loc="(1990,1250)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+      <a name="label" val="指令字"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(1570,1200)" name="Constant">
+      <a name="facing" val="east"/>
+      <a name="width" val="5"/>
+      <a name="value" val="0x1f"/>
+    </comp>
+    <comp lib="0" loc="(600,130)" name="Pin">
+      <a name="facing" val="east"/>
+      <a name="output" val="false"/>
+      <a name="width" val="1"/>
+      <a name="tristate" val="false"/>
+      <a name="pull" val="none"/>
+      <a name="label" val="IR1"/>
+      <a name="labelloc" val="west"/>
+      <a name="labelfont" val="Dialog plain 10"/>
+      <a name="labelcolor" val="#000000"/>
     </comp>
     <comp lib="1" loc="(920,140)" name="OR Gate">
       <a name="facing" val="east"/>
@@ -1592,35 +1918,24 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="negate0" val="false"/>
       <a name="negate1" val="false"/>
     </comp>
-    <comp lib="0" loc="(600,130)" name="Pin">
-      <a name="facing" val="east"/>
-      <a name="output" val="false"/>
-      <a name="width" val="1"/>
-      <a name="tristate" val="false"/>
-      <a name="pull" val="none"/>
-      <a name="label" val="IR1"/>
-      <a name="labelloc" val="west"/>
-      <a name="labelfont" val="Dialog plain 10"/>
-      <a name="labelcolor" val="#000000"/>
-    </comp>
     <comp lib="5" loc="(480,80)" name="Hex Digit Display">
       <a name="color" val="#f00000"/>
       <a name="offcolor" val="#dcdcdc"/>
       <a name="bg" val="#ffffff"/>
     </comp>
-    <comp loc="(1070,1340)" name="◆MIPS ALU">
+    <comp lib="2" loc="(1700,1070)" name="Multiplexer">
       <a name="facing" val="east"/>
-      <a name="label" val=""/>
-      <a name="labelloc" val="north"/>
-      <a name="labelfont" val="Dialog plain 12"/>
-      <a name="labelcolor" val="#000000"/>
+      <a name="selloc" val="tr"/>
+      <a name="select" val="1"/>
+      <a name="width" val="5"/>
+      <a name="disabled" val="Z"/>
+      <a name="enable" val="false"/>
     </comp>
-    <comp loc="(1870,1300)" name="◆MIPS ALU">
-      <a name="facing" val="east"/>
-      <a name="label" val=""/>
-      <a name="labelloc" val="north"/>
+    <comp lib="0" loc="(1220,1690)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="16"/>
+      <a name="label" val="总周期数"/>
       <a name="labelfont" val="Dialog plain 12"/>
-      <a name="labelcolor" val="#000000"/>
     </comp>
     <comp lib="6" loc="(46,157)" name="Text">
       <a name="text" val="中断源"/>
@@ -1629,17 +1944,32 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </comp>
+    <comp lib="3" loc="(1110,1620)" name="Comparator">
+      <a name="width" val="32"/>
+      <a name="mode" val="twosComplement"/>
+    </comp>
+    <comp lib="1" loc="(2040,810)" name="NOT Gate">
+      <a name="facing" val="east"/>
+      <a name="width" val="1"/>
+      <a name="size" val="20"/>
+      <a name="out" val="01"/>
+      <a name="label" val=""/>
+      <a name="labelfont" val="Dialog plain 12"/>
+      <a name="labelcolor" val="#000000"/>
+    </comp>
+    <comp lib="2" loc="(1700,1120)" name="Multiplexer">
+      <a name="facing" val="east"/>
+      <a name="selloc" val="tr"/>
+      <a name="select" val="1"/>
+      <a name="width" val="5"/>
+      <a name="disabled" val="Z"/>
+      <a name="enable" val="false"/>
+    </comp>
     <comp lib="0" loc="(70,50)" name="Tunnel">
       <a name="facing" val="west"/>
       <a name="width" val="1"/>
       <a name="label" val="CLK"/>
       <a name="labelfont" val="Dialog plain 12"/>
-    </comp>
-    <comp lib="0" loc="(70,90)" name="Tunnel">
-      <a name="facing" val="west"/>
-      <a name="width" val="1"/>
-      <a name="label" val="IRA"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
     <comp lib="0" loc="(1370,890)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -1647,11 +1977,17 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="label" val="SignedExt"/>
       <a name="labelfont" val="SansSerif plain 10"/>
     </comp>
-    <comp lib="0" loc="(2050,1180)" name="Tunnel">
-      <a name="facing" val="north"/>
+    <comp lib="0" loc="(70,90)" name="Tunnel">
+      <a name="facing" val="west"/>
       <a name="width" val="1"/>
-      <a name="label" val="CLK"/>
-      <a name="labelfont" val="Dialog plain 12"/>
+      <a name="label" val="IRA"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="0" loc="(740,150)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="1"/>
+      <a name="label" val="IRB"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
     <comp lib="0" loc="(650,140)" name="Tunnel">
       <a name="facing" val="west"/>
@@ -1665,17 +2001,12 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="label" val="PC"/>
       <a name="labelfont" val="Dialog plain 12"/>
     </comp>
-    <comp lib="0" loc="(740,150)" name="Tunnel">
+    <comp lib="1" loc="(1070,1690)" name="NOT Gate">
       <a name="facing" val="east"/>
       <a name="width" val="1"/>
-      <a name="label" val="IRB"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="0" loc="(1510,1220)" name="Probe">
-      <a name="facing" val="east"/>
-      <a name="radix" val="10signed"/>
+      <a name="size" val="20"/>
+      <a name="out" val="01"/>
       <a name="label" val=""/>
-      <a name="labelloc" val="north"/>
       <a name="labelfont" val="Dialog plain 12"/>
       <a name="labelcolor" val="#000000"/>
     </comp>
@@ -1689,11 +2020,48 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="labelfont" val="Dialog plain 12"/>
       <a name="labelcolor" val="#000000"/>
     </comp>
-    <comp lib="0" loc="(140,110)" name="Tunnel">
-      <a name="facing" val="west"/>
-      <a name="width" val="1"/>
-      <a name="label" val="W2"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
+    <comp lib="0" loc="(1990,1230)" name="Splitter">
+      <a name="facing" val="north"/>
+      <a name="fanout" val="1"/>
+      <a name="incoming" val="32"/>
+      <a name="appear" val="center"/>
+      <a name="bit0" val="none"/>
+      <a name="bit1" val="none"/>
+      <a name="bit2" val="none"/>
+      <a name="bit3" val="none"/>
+      <a name="bit4" val="none"/>
+      <a name="bit5" val="none"/>
+      <a name="bit6" val="0"/>
+      <a name="bit7" val="0"/>
+      <a name="bit8" val="0"/>
+      <a name="bit9" val="0"/>
+      <a name="bit10" val="0"/>
+      <a name="bit11" val="none"/>
+      <a name="bit12" val="none"/>
+      <a name="bit13" val="none"/>
+      <a name="bit14" val="none"/>
+      <a name="bit15" val="none"/>
+      <a name="bit16" val="none"/>
+      <a name="bit17" val="none"/>
+      <a name="bit18" val="none"/>
+      <a name="bit19" val="none"/>
+      <a name="bit20" val="none"/>
+      <a name="bit21" val="none"/>
+      <a name="bit22" val="none"/>
+      <a name="bit23" val="none"/>
+      <a name="bit24" val="none"/>
+      <a name="bit25" val="none"/>
+      <a name="bit26" val="none"/>
+      <a name="bit27" val="none"/>
+      <a name="bit28" val="none"/>
+      <a name="bit29" val="none"/>
+      <a name="bit30" val="none"/>
+      <a name="bit31" val="none"/>
+    </comp>
+    <comp lib="0" loc="(1650,1130)" name="Constant">
+      <a name="facing" val="east"/>
+      <a name="width" val="5"/>
+      <a name="value" val="0x4"/>
     </comp>
     <comp lib="5" loc="(50,130)" name="Button">
       <a name="facing" val="east"/>
@@ -1703,13 +2071,39 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="labelfont" val="Dialog plain 12"/>
       <a name="labelcolor" val="#000000"/>
     </comp>
-    <comp lib="2" loc="(810,1090)" name="Multiplexer">
+    <comp lib="0" loc="(140,110)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="1"/>
+      <a name="label" val="W2"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="1" loc="(2080,800)" name="AND Gate">
       <a name="facing" val="east"/>
-      <a name="selloc" val="tr"/>
-      <a name="select" val="1"/>
+      <a name="width" val="1"/>
+      <a name="size" val="30"/>
+      <a name="inputs" val="2"/>
+      <a name="out" val="01"/>
+      <a name="label" val=""/>
+      <a name="labelfont" val="Dialog plain 12"/>
+      <a name="labelcolor" val="#000000"/>
+      <a name="negate0" val="false"/>
+      <a name="negate1" val="false"/>
+    </comp>
+    <comp lib="3" loc="(1920,1320)" name="Shifter">
       <a name="width" val="32"/>
-      <a name="disabled" val="Z"/>
-      <a name="enable" val="false"/>
+      <a name="shift" val="ll"/>
+    </comp>
+    <comp lib="1" loc="(1280,1610)" name="AND Gate">
+      <a name="facing" val="east"/>
+      <a name="width" val="1"/>
+      <a name="size" val="30"/>
+      <a name="inputs" val="2"/>
+      <a name="out" val="01"/>
+      <a name="label" val=""/>
+      <a name="labelfont" val="Dialog plain 12"/>
+      <a name="labelcolor" val="#000000"/>
+      <a name="negate0" val="false"/>
+      <a name="negate1" val="true"/>
     </comp>
     <comp lib="6" loc="(1456,875)" name="Text">
       <a name="text" val="Bne"/>
@@ -1737,18 +2131,14 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </comp>
-    <comp lib="0" loc="(830,1170)" name="Probe">
-      <a name="facing" val="north"/>
-      <a name="radix" val="10signed"/>
-      <a name="label" val=""/>
-      <a name="labelloc" val="north"/>
-      <a name="labelfont" val="Dialog plain 12"/>
-      <a name="labelcolor" val="#000000"/>
+    <comp lib="3" loc="(1070,1350)" name="Adder">
+      <a name="width" val="32"/>
     </comp>
-    <comp lib="5" loc="(440,80)" name="Hex Digit Display">
-      <a name="color" val="#f00000"/>
-      <a name="offcolor" val="#dcdcdc"/>
-      <a name="bg" val="#ffffff"/>
+    <comp lib="0" loc="(2210,1180)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="1"/>
+      <a name="label" val="CLK"/>
+      <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="0" loc="(1250,90)" name="Tunnel">
       <a name="facing" val="north"/>
@@ -1756,10 +2146,21 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="label" val="LedData"/>
       <a name="labelfont" val="Dialog plain 12"/>
     </comp>
+    <comp lib="5" loc="(440,80)" name="Hex Digit Display">
+      <a name="color" val="#f00000"/>
+      <a name="offcolor" val="#dcdcdc"/>
+      <a name="bg" val="#ffffff"/>
+    </comp>
     <comp lib="0" loc="(1490,310)" name="Tunnel">
       <a name="facing" val="west"/>
       <a name="width" val="1"/>
       <a name="label" val="CLK"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(1370,1540)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="1"/>
+      <a name="label" val="led_en"/>
       <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="6" loc="(1454,995)" name="Text">
@@ -1769,18 +2170,11 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </comp>
-    <comp lib="0" loc="(1700,1270)" name="Constant">
-      <a name="facing" val="east"/>
-      <a name="width" val="5"/>
-      <a name="value" val="0x2"/>
-    </comp>
-    <comp lib="4" loc="(900,1090)" name="Register">
-      <a name="width" val="32"/>
-      <a name="trigger" val="rising"/>
-      <a name="label" val="PC"/>
-      <a name="labelfont" val="SansSerif bold 12"/>
-      <a name="labelcolor" val="#000000"/>
-      <a name="Select" val="low"/>
+    <comp lib="0" loc="(820,1200)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="1"/>
+      <a name="label" val="Go"/>
+      <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="0" loc="(70,110)" name="Tunnel">
       <a name="facing" val="west"/>
@@ -1799,6 +2193,24 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="labelloc" val="north"/>
       <a name="labelfont" val="Dialog plain 12"/>
       <a name="labelcolor" val="#000000"/>
+    </comp>
+    <comp lib="1" loc="(2070,860)" name="AND Gate">
+      <a name="facing" val="east"/>
+      <a name="width" val="1"/>
+      <a name="size" val="30"/>
+      <a name="inputs" val="2"/>
+      <a name="out" val="01"/>
+      <a name="label" val=""/>
+      <a name="labelfont" val="Dialog plain 12"/>
+      <a name="labelcolor" val="#000000"/>
+      <a name="negate0" val="false"/>
+      <a name="negate1" val="false"/>
+    </comp>
+    <comp lib="0" loc="(1620,1530)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="32"/>
+      <a name="label" val="LedData"/>
+      <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="0" loc="(930,1090)" name="Splitter">
       <a name="facing" val="east"/>
@@ -1838,13 +2250,23 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="bit30" val="none"/>
       <a name="bit31" val="none"/>
     </comp>
+    <comp lib="0" loc="(1860,1330)" name="Constant">
+      <a name="facing" val="east"/>
+      <a name="width" val="5"/>
+      <a name="value" val="0x2"/>
+    </comp>
     <comp lib="0" loc="(1040,80)" name="Tunnel">
       <a name="facing" val="north"/>
       <a name="width" val="1"/>
       <a name="label" val="MemWrite"/>
       <a name="labelfont" val="Dialog plain 12"/>
     </comp>
-    <comp lib="8" loc="(1140,950)" name="Mips Probe"/>
+    <comp lib="0" loc="(800,1210)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="1"/>
+      <a name="label" val="halt"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
     <comp lib="0" loc="(1170,990)" name="Splitter">
       <a name="facing" val="east"/>
       <a name="fanout" val="1"/>
@@ -1890,10 +2312,21 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </comp>
-    <comp lib="0" loc="(1430,1250)" name="Bit Extender">
-      <a name="in_width" val="16"/>
-      <a name="out_width" val="32"/>
-      <a name="type" val="zero"/>
+    <comp lib="4" loc="(2280,1130)" name="RAM">
+      <a name="addrWidth" val="10"/>
+      <a name="dataWidth" val="32"/>
+      <a name="label" val=""/>
+      <a name="labelfont" val="Dialog plain 12"/>
+      <a name="labelcolor" val="#000000"/>
+      <a name="bus" val="separate"/>
+      <a name="Select" val="high"/>
+    </comp>
+    <comp lib="6" loc="(1465,1045)" name="Text">
+      <a name="text" val="Syscall"/>
+      <a name="font" val="Dialog plain 12"/>
+      <a name="color" val="#000000"/>
+      <a name="halign" val="center"/>
+      <a name="valign" val="base"/>
     </comp>
     <comp lib="0" loc="(1210,290)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -1901,22 +2334,10 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="label" val="CNT#"/>
       <a name="labelfont" val="Dialog plain 12"/>
     </comp>
-    <comp lib="1" loc="(1970,700)" name="OR Gate">
-      <a name="facing" val="north"/>
-      <a name="width" val="1"/>
-      <a name="size" val="30"/>
-      <a name="inputs" val="2"/>
-      <a name="out" val="01"/>
-      <a name="label" val=""/>
-      <a name="labelfont" val="Dialog plain 12"/>
-      <a name="labelcolor" val="#000000"/>
-      <a name="negate0" val="false"/>
-      <a name="negate1" val="false"/>
-    </comp>
-    <comp lib="0" loc="(1030,1270)" name="Constant">
-      <a name="facing" val="south"/>
-      <a name="width" val="4"/>
-      <a name="value" val="0x5"/>
+    <comp lib="0" loc="(1430,1250)" name="Bit Extender">
+      <a name="in_width" val="16"/>
+      <a name="out_width" val="32"/>
+      <a name="type" val="zero"/>
     </comp>
     <comp lib="1" loc="(1360,280)" name="NAND Gate">
       <a name="facing" val="east"/>
@@ -1930,10 +2351,10 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="negate0" val="false"/>
       <a name="negate1" val="false"/>
     </comp>
-    <comp lib="0" loc="(1500,920)" name="Tunnel">
-      <a name="facing" val="west"/>
-      <a name="width" val="1"/>
-      <a name="label" val="MemWri"/>
+    <comp lib="0" loc="(560,1140)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="PC+4"/>
       <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="4" loc="(1150,270)" name="D Flip-Flop">
@@ -1960,18 +2381,16 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="label" val="总周期数"/>
       <a name="labelfont" val="Dialog plain 12"/>
     </comp>
-    <comp lib="0" loc="(1280,1100)" name="Probe">
-      <a name="facing" val="south"/>
-      <a name="radix" val="10signed"/>
-      <a name="label" val=""/>
-      <a name="labelloc" val="north"/>
-      <a name="labelfont" val="Dialog plain 12"/>
-      <a name="labelcolor" val="#000000"/>
-    </comp>
-    <comp lib="0" loc="(2010,1180)" name="Tunnel">
+    <comp lib="0" loc="(1130,1160)" name="Tunnel">
       <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+      <a name="label" val="指令字"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(1370,1610)" name="Tunnel">
+      <a name="facing" val="west"/>
       <a name="width" val="1"/>
-      <a name="label" val="MemWri"/>
+      <a name="label" val="halt"/>
       <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="6" loc="(1469,975)" name="Text">
@@ -1988,6 +2407,31 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </comp>
+    <comp lib="2" loc="(1620,1190)" name="Multiplexer">
+      <a name="facing" val="east"/>
+      <a name="selloc" val="tr"/>
+      <a name="select" val="1"/>
+      <a name="width" val="5"/>
+      <a name="disabled" val="Z"/>
+      <a name="enable" val="false"/>
+    </comp>
+    <comp lib="3" loc="(2010,1330)" name="Adder">
+      <a name="width" val="32"/>
+    </comp>
+    <comp lib="0" loc="(1010,1610)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="R[v0]"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="2" loc="(560,1080)" name="Multiplexer">
+      <a name="facing" val="east"/>
+      <a name="selloc" val="tr"/>
+      <a name="select" val="1"/>
+      <a name="width" val="32"/>
+      <a name="disabled" val="Z"/>
+      <a name="enable" val="false"/>
+    </comp>
     <comp lib="6" loc="(1381,987)" name="Text">
       <a name="text" val="OP"/>
       <a name="font" val="SansSerif bold 12"/>
@@ -1995,13 +2439,7 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </comp>
-    <comp lib="0" loc="(1360,320)" name="Tunnel">
-      <a name="facing" val="west"/>
-      <a name="width" val="13"/>
-      <a name="label" val="CNT#"/>
-      <a name="labelfont" val="Dialog plain 12"/>
-    </comp>
-    <comp lib="1" loc="(1910,780)" name="AND Gate">
+    <comp lib="1" loc="(1280,1540)" name="AND Gate">
       <a name="facing" val="east"/>
       <a name="width" val="1"/>
       <a name="size" val="30"/>
@@ -2012,6 +2450,12 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="labelcolor" val="#000000"/>
       <a name="negate0" val="false"/>
       <a name="negate1" val="false"/>
+    </comp>
+    <comp lib="0" loc="(1360,320)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="13"/>
+      <a name="label" val="CNT#"/>
+      <a name="labelfont" val="Dialog plain 12"/>
     </comp>
     <comp lib="0" loc="(1170,1070)" name="Splitter">
       <a name="facing" val="east"/>
@@ -2078,6 +2522,13 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </comp>
+    <comp loc="(1820,1090)" name="◆MIPS Regifile">
+      <a name="facing" val="east"/>
+      <a name="label" val=""/>
+      <a name="labelloc" val="north"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+      <a name="labelcolor" val="#000000"/>
+    </comp>
     <comp lib="0" loc="(1050,40)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
@@ -2097,16 +2548,6 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="labelfont" val="Dialog plain 12"/>
       <a name="labelcolor" val="#000000"/>
     </comp>
-    <comp lib="5" loc="(130,130)" name="LED">
-      <a name="facing" val="east"/>
-      <a name="color" val="#f00000"/>
-      <a name="offcolor" val="#e6e6e6"/>
-      <a name="active" val="true"/>
-      <a name="label" val=""/>
-      <a name="labelloc" val="north"/>
-      <a name="labelfont" val="Dialog plain 12"/>
-      <a name="labelcolor" val="#000000"/>
-    </comp>
     <comp lib="0" loc="(830,80)" name="Tunnel">
       <a name="facing" val="north"/>
       <a name="width" val="1"/>
@@ -2120,6 +2561,16 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </comp>
+    <comp lib="5" loc="(130,130)" name="LED">
+      <a name="facing" val="east"/>
+      <a name="color" val="#f00000"/>
+      <a name="offcolor" val="#e6e6e6"/>
+      <a name="active" val="true"/>
+      <a name="label" val=""/>
+      <a name="labelloc" val="north"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+      <a name="labelcolor" val="#000000"/>
+    </comp>
     <comp lib="0" loc="(910,70)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
@@ -2131,14 +2582,6 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="labelfont" val="Dialog plain 12"/>
       <a name="labelcolor" val="#000000"/>
     </comp>
-    <comp lib="2" loc="(1740,1170)" name="Multiplexer">
-      <a name="facing" val="east"/>
-      <a name="selloc" val="tr"/>
-      <a name="select" val="1"/>
-      <a name="width" val="32"/>
-      <a name="disabled" val="Z"/>
-      <a name="enable" val="false"/>
-    </comp>
     <comp lib="4" loc="(1110,1090)" name="ROM">
       <a name="addrWidth" val="10"/>
       <a name="dataWidth" val="32"/>
@@ -2146,7 +2589,7 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="labelfont" val="Dialog plain 12"/>
       <a name="labelcolor" val="#000000"/>
       <a name="contents">addr/data: 10 32
-8c090000 8000c05 20110001 20120002 20130003 8000c09 20110001 20120002
+20110001 8000c05 20110001 20120002 20130003 8000c09 20110001 20120002
 20130003 8000c0d 20110001 20120002 20130003 8000c11 20110001 20120002
 20130003 c000cb8 20100001 20110001 118fc0 112020 20020022 c
 118882 12200001 8000c15 112020 20020022 c 20110001 118880
@@ -2168,7 +2611,7 @@ ae300000 22100001 22310004 ae300000 22100001 22310004 ae300000 22100001
 22310004 ae300000 22100001 22310004 ae300000 22100001 22310004 ae300000
 22100001 22310004 ae300000 22100001 22310004 22100001 8020 2011003c
 8e130000 8e340000 274402a 11000002 ae330000 ae140000 2231fffc 1611fff8
-102020 20020022 c 22100004 2011003c 1611fff2 2002000a c
+102020 20020022 c 22100004 2011003c 1611fff2 20020032 c
 20100000 22100001 102020 20020022 c 22100002 102020 20020022
 c 22100003 102020 20020022 c 22100004 102020 20020022
 c 22100005 102020 20020022 c 22100006 102020 20020022
@@ -2177,14 +2620,31 @@ c 22100007 102020 20020022 c 22100008 102020 20020022
 </a>
       <a name="Select" val="high"/>
     </comp>
-    <comp lib="1" loc="(1880,790)" name="NOT Gate">
+    <comp lib="0" loc="(1430,1290)" name="Bit Extender">
+      <a name="in_width" val="16"/>
+      <a name="out_width" val="32"/>
+      <a name="type" val="sign"/>
+    </comp>
+    <comp lib="2" loc="(2460,1130)" name="Multiplexer">
       <a name="facing" val="east"/>
-      <a name="width" val="1"/>
-      <a name="size" val="20"/>
-      <a name="out" val="01"/>
-      <a name="label" val=""/>
-      <a name="labelfont" val="Dialog plain 12"/>
-      <a name="labelcolor" val="#000000"/>
+      <a name="selloc" val="tr"/>
+      <a name="select" val="1"/>
+      <a name="width" val="32"/>
+      <a name="disabled" val="Z"/>
+      <a name="enable" val="false"/>
+    </comp>
+    <comp lib="0" loc="(1000,1360)" name="Constant">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="value" val="0x4"/>
+    </comp>
+    <comp lib="2" loc="(690,1090)" name="Multiplexer">
+      <a name="facing" val="east"/>
+      <a name="selloc" val="tr"/>
+      <a name="select" val="1"/>
+      <a name="width" val="32"/>
+      <a name="disabled" val="Z"/>
+      <a name="enable" val="false"/>
     </comp>
     <comp lib="5" loc="(320,80)" name="Hex Digit Display">
       <a name="color" val="#f00000"/>
@@ -2201,6 +2661,50 @@ c 22100007 102020 20020022 c 22100008 102020 20020022
       <a name="labelloc" val="north"/>
       <a name="labelfont" val="Dialog plain 12"/>
       <a name="labelcolor" val="#000000"/>
+    </comp>
+    <comp lib="0" loc="(1500,1560)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="1"/>
+      <a name="label" val="led_en"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(580,1140)" name="Splitter">
+      <a name="facing" val="east"/>
+      <a name="fanout" val="1"/>
+      <a name="incoming" val="32"/>
+      <a name="appear" val="center"/>
+      <a name="bit0" val="none"/>
+      <a name="bit1" val="none"/>
+      <a name="bit2" val="none"/>
+      <a name="bit3" val="none"/>
+      <a name="bit4" val="none"/>
+      <a name="bit5" val="none"/>
+      <a name="bit6" val="none"/>
+      <a name="bit7" val="none"/>
+      <a name="bit8" val="none"/>
+      <a name="bit9" val="none"/>
+      <a name="bit10" val="none"/>
+      <a name="bit11" val="none"/>
+      <a name="bit12" val="none"/>
+      <a name="bit13" val="none"/>
+      <a name="bit14" val="none"/>
+      <a name="bit15" val="none"/>
+      <a name="bit16" val="none"/>
+      <a name="bit17" val="none"/>
+      <a name="bit18" val="none"/>
+      <a name="bit19" val="none"/>
+      <a name="bit20" val="none"/>
+      <a name="bit21" val="none"/>
+      <a name="bit22" val="none"/>
+      <a name="bit23" val="none"/>
+      <a name="bit24" val="none"/>
+      <a name="bit25" val="none"/>
+      <a name="bit26" val="none"/>
+      <a name="bit27" val="none"/>
+      <a name="bit28" val="0"/>
+      <a name="bit29" val="0"/>
+      <a name="bit30" val="0"/>
+      <a name="bit31" val="0"/>
     </comp>
   </circuit>
   <circuit name="◆单周期硬布线控制器">
